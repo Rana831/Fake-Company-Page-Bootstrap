@@ -1,0 +1,52 @@
+.imgNavStyle{
+    height: 50px;
+}
+.buildStyle{
+    color: blue;
+}
+nav{
+    font-weight: bold;
+    background-color: white;
+}
+.cardStyle{
+    border: none;
+    display: flex;
+}
+.headerStyle{
+    display: flex;
+}
+
+.cardsStyle{
+    box-shadow: 0 0 25px rgb(148, 147, 147);
+    width: 350px ;
+    border: none;
+    border-radius: 10px;
+    padding: 0;
+}
+.learnStyle{
+    color:rgb(107, 107, 252);
+}
+.iconDiv{
+    
+    width: 60px;
+    height: 60px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.iconStyle{
+    font-size:25px;
+    color: white; 
+}
+.servicesDiv{
+    background-color: rgb(248, 246, 246);
+}
+.footerStyle{
+    background-color: rgb(107, 107, 252);
+}
+.footerTextStyle{
+    color: white;
+}
+.footerTextStyle:hover{
+    color: white;
+}
